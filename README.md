@@ -1,4 +1,4 @@
-# Projeto-de-Aula-Modulo-5
+# Projeto-de-Grupo-Modulo-5
 Case 1 Meu app
 
 O tema do projeto é livre, você pode pensar que tipo de cadastro seria
