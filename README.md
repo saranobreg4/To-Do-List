@@ -5,7 +5,7 @@ O tema do projeto é livre, você pode pensar que tipo de cadastro seria
 interessante e se tornaria um produto legal:
 Que tal uma lista de livros que foram lidos? Ou então uma lista de filmes para
 assistir este ano? Ou quem sabe quais são os games que o usuário já jogou e
-terminou … são muitas possibilidades de listas!!
+terminou … são muitas possibilidades de listas!
 
 
 ### 1. Instalar as dependências
