@@ -8,6 +8,7 @@ assistir este ano? Ou quem sabe quais são os games que o usuário já jogou e
 terminou … são muitas possibilidades de listas!
 
 
+
 ### 1. Instalar as dependências
 
 ```bash
